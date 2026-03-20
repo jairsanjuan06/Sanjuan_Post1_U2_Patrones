@@ -177,7 +177,7 @@ Total: 4 notificaciones
 ### Captura de Pantalla de la Ejecución
 
 >
-> `![Salida Main](/creational-patterns/src/img/CapturaSalidaMain.jpg)`
+> `![Salida Main](src/img/CapturaSalidaMain.jpg)`
 
 ---
 
